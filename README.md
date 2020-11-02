@@ -1,3 +1,5 @@
+#
+ For testing
 # cleaning-robot
 - Using opencv and costmap2d to make cleaning plan. 
 - Using movebase to contral robot's movement.
